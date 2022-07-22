@@ -9,6 +9,7 @@ public class VariableWork {
      char gender = 'M';
      boolean isMarried = false;
 
+
         String fullName = firstName + " " + lastName;
 
         System.out.println("My full name is "+fullName);
